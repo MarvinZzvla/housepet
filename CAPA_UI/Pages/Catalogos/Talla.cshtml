@@ -1,0 +1,151 @@
+﻿@page
+@model TallaModel
+@{
+}
+
+@section Scripts {
+    <script type="text/javascript" src="@Url.Content("../js/TablaComponent.js")"></script>
+
+    <script type="module">
+        window.onload = async () => {
+            let UrlP = "../api/Catalogos/GetTalla";
+            let response = await fetch(UrlP, {
+                method: "GET",
+                headers: {
+                    'Content-Type': "application/json; charset-utf-8",
+                    'Accept': "*/*"
+                }
+            });
+            response = await response.json();
+            console.log(response)
+            CreateTable(response, TableData)
+
+        }
+
+        const reload = document.getElementById('Editar');
+
+        reload.addEventListener('click', _ => { // el _ es para indicar la ausencia de parametros
+            location.reload();
+        });;
+
+    </script>
+    <script>
+    window.edit = async () => {
+                const ObjInst = {
+                    Parametro: TxOperacion.value.length === 1 ? TxOperacion.value : 'C',
+                    IdTalla: TxtId.value.length > 0 ? TxtId.value : 1,
+                    DescipcionTalla: TxtDescripcion.value,
+                    EstadoTalla: TxtEstado.value
+                }
+                console.log('estoy aquidd');
+                let Url = "../api/Catalogos/SaveTalla";
+                let response = await fetch(Url,
+                    {
+                        method: "POST",
+                        headers: {
+                            'Content-Type': "application/json; charset=utf-8",
+                            'Accept': "*//*"
+                        },
+                        body: JSON.stringify(ObjInst)
+                    });
+            }
+            async function LoadValues(item)
+            {
+                window.scrollTo(0, 0);
+                console.log(item);
+                let listItems = JSON.parse('@Html.Raw(Json.Serialize(Model.listInfor))');
+                console.log(listItems)
+                let singleItem = listItems.find(x => x.idTalla === item)
+                
+                TxtDescripcion.value = singleItem.descipcionTalla;
+                TxtEstado.value = singleItem.estadoTalla;
+                
+                TxOperacion.value = 'U';
+                TxtId.value = singleItem.idTalla;
+               
+                var _modalHeader = document.getElementById("modalHeader");
+                _modalHeader.textContent = "Editar Unidad de Medida";   
+            }
+
+    </script>
+}
+
+<div class="row" id="ModalTalla">
+    <div class="modal-dialog modal-lg ">
+        <div class=" modal-content">
+            <form method="post" enctype="multipart/form-data">
+                <div class="modal-header">
+                    <h2 class="modal-title text-primary text-center" id="modalHeader">Agregar Nueva Unidad de Medida</h2>
+                </div>
+                <div class="modal-body">
+                    <div>
+                        <div class="row p-3 border-0">
+                            <div class="text-danger"></div>
+                        </div>
+
+                        <input type="hidden" class="form-control" id="TxtId"/>
+
+                        <div class="form-row" style="padding-top:14px;">
+                            <div class="form-group col-md-6">
+                                <label>Descripcion</label>
+                                <input type="text" id="TxtDescripcion" class="form-control" placeholder="Descripcion"/>
+                                <span class="text-danger"></span>
+                            </div>
+                            <input type="hidden" id="TxOperacion" class="form-control"/>
+                            <div>
+                                <div class="form-group" style="margin-left:10px">
+                                    <label>Estado</label>
+                                    <select id="TxtEstado" class="custom-select">
+                                        <option value="1">Activo</option>
+                                        <option value="0">Inactivo</option>
+                                    </select>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger">Cancelar</button>
+                    <button type="button" class="btn btn-success" id="Editar" formmethod="post" onclick="edit()">Grabar Cambios</button>
+                </div>
+
+            </form>
+        </div>
+
+    </div>
+</div>
+
+
+<table id="example" class="table table-striped table-bordered">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Descripcion</th>
+        <th>Estado</th>
+        <th>
+            <a>Accion</a>
+        </th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model.listInfor)
+    {
+        <tr>
+            <td>
+                @item.IdTalla
+            </td>
+            <td>
+                @item.DescipcionTalla
+            </td>
+            <td>
+                @item.EstadoTalla
+            </td>
+            <td>
+                <button type="button" class="btn btn-success" onclick="LoadValues(@item.IdTalla)">Editar</button>
+            </td>
+        </tr>
+    }
+    </tbody>
+
+</table>

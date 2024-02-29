@@ -1,0 +1,78 @@
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.deps.json
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.pdb
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.csproj.AssemblyReference.cache
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.AssemblyInfoInputs.cache
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.AssemblyInfo.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.csproj.CoreCompileInputs.cache
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.csproj.CopyComplete
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.deps.json
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.csproj.AssemblyReference.cache
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.AssemblyInfoInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.AssemblyInfo.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.csproj.CoreCompileInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.csproj.CopyComplete
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.pdb
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.deps.json
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.pdb
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.csproj.AssemblyReference.cache
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.AssemblyInfoInputs.cache
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.AssemblyInfo.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.csproj.CoreCompileInputs.cache
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.csproj.CopyComplete
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.deps.json
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.csproj.AssemblyReference.cache
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.AssemblyInfoInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.AssemblyInfo.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.csproj.CoreCompileInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.csproj.CopyComplete
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.deps.json
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.csproj.AssemblyReference.cache
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.AssemblyInfoInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.AssemblyInfo.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.csproj.CoreCompileInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.csproj.CopyComplete
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.deps.json
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_NEGOCIOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.csproj.AssemblyReference.cache
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.AssemblyInfoInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.AssemblyInfo.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.csproj.CoreCompileInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.csproj.CopyComplete
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_NEGOCIOS\obj\Debug\netcoreapp3.1\CAPA_NEGOCIOS.pdb

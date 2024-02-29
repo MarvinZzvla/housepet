@@ -1,0 +1,1137 @@
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.exe
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.deps.json
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.runtimeconfig.json
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.runtimeconfig.dev.json
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.pdb
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.Views.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.Views.pdb
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.pdb
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.csproj.AssemblyReference.cache
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.AssemblyInfoInputs.cache
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.AssemblyInfo.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.csproj.CoreCompileInputs.cache
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorAssemblyInfo.cache
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorAssemblyInfo.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\CAPA_UI.StaticWebAssets.Manifest.cache
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\CAPA_UI.StaticWebAssets.Pack.cache
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.CAPA_UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.CAPA_UI.props
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.CAPA_UI.props
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.CAPA_UI.props
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.TagHelpers.input.cache
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.TagHelpers.output.cache
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorCoreGenerate.cache
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Articulo.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\ArticuloBaja.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\ArticuloBodega.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Bodega.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Categoria.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\InformeArticuloXCategoria.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Proveedor.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorTargetAssemblyInfo.cache
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorTargetAssemblyInfo.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.Views.pdb
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.csproj.CopyComplete
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.pdb
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.genruntimeconfig.cache
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Acceso\Login.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Index.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Talla.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Informes\ViewInformeCompra.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Inventario\InventarioIndex.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Compras\ComprasIndex.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Compras\Create.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Ventas\Create.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Ventas\VentasIndex.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Devoluciones\Create.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Devoluciones\DevolucionesIndex.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Informes\ViewInformeVenta.cshtml.g.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Informes\ViewInformeInventario.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.exe
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.deps.json
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.runtimeconfig.json
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.runtimeconfig.dev.json
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.Views.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.Views.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.csproj.AssemblyReference.cache
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.AssemblyInfoInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.AssemblyInfo.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.csproj.CoreCompileInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorAssemblyInfo.cache
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorAssemblyInfo.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\CAPA_UI.StaticWebAssets.Manifest.cache
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\CAPA_UI.StaticWebAssets.Pack.cache
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.CAPA_UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.CAPA_UI.props
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.CAPA_UI.props
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.CAPA_UI.props
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.TagHelpers.input.cache
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.TagHelpers.output.cache
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorCoreGenerate.cache
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Acceso\Login.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Articulo.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\ArticuloBaja.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\ArticuloBodega.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Bodega.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Categoria.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Index.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\InformeArticuloXCategoria.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Proveedor.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Talla.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Compras\ComprasIndex.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Compras\Create.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Devoluciones\Create.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Devoluciones\DevolucionesIndex.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Informes\ViewInformeCompra.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Informes\ViewInformeInventario.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Informes\ViewInformeVenta.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Inventario\InventarioIndex.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Ventas\Create.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Ventas\VentasIndex.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorTargetAssemblyInfo.cache
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorTargetAssemblyInfo.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.Views.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.csproj.CopyComplete
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.genruntimeconfig.cache
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Brand.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Views\Brand\Index.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Acceso\Registrar.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Ventas\Factura.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.exe
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.deps.json
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.runtimeconfig.json
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.runtimeconfig.dev.json
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.pdb
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.Views.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.Views.pdb
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.pdb
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.csproj.AssemblyReference.cache
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.AssemblyInfoInputs.cache
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.AssemblyInfo.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.csproj.CoreCompileInputs.cache
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorAssemblyInfo.cache
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorAssemblyInfo.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\CAPA_UI.StaticWebAssets.Manifest.cache
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\CAPA_UI.StaticWebAssets.Pack.cache
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.CAPA_UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.CAPA_UI.props
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.CAPA_UI.props
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.CAPA_UI.props
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.TagHelpers.input.cache
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.TagHelpers.output.cache
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorCoreGenerate.cache
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Acceso\Login.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Acceso\Registrar.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Brand.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Articulo.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\ArticuloBaja.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\ArticuloBodega.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Bodega.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Categoria.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Index.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\InformeArticuloXCategoria.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Proveedor.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Talla.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Compras\ComprasIndex.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Compras\Create.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Devoluciones\Create.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Devoluciones\DevolucionesIndex.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Informes\ViewInformeCompra.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Informes\ViewInformeInventario.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Informes\ViewInformeVenta.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Inventario\InventarioIndex.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Ventas\Create.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Ventas\Factura.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Ventas\VentasIndex.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Views\Brand\Index.cshtml.g.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorTargetAssemblyInfo.cache
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorTargetAssemblyInfo.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.Views.pdb
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.csproj.CopyComplete
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.pdb
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.genruntimeconfig.cache
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.exe
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.deps.json
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.runtimeconfig.json
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.runtimeconfig.dev.json
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.pdb
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.Views.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.Views.pdb
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.csproj.AssemblyReference.cache
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.AssemblyInfoInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.AssemblyInfo.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.csproj.CoreCompileInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorAssemblyInfo.cache
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorAssemblyInfo.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\CAPA_UI.StaticWebAssets.Manifest.cache
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\CAPA_UI.StaticWebAssets.Pack.cache
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.CAPA_UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.CAPA_UI.props
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.CAPA_UI.props
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.CAPA_UI.props
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.TagHelpers.input.cache
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.TagHelpers.output.cache
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorCoreGenerate.cache
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Acceso\Login.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Acceso\Registrar.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Brand.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Articulo.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\ArticuloBaja.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\ArticuloBodega.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Bodega.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Categoria.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Index.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\InformeArticuloXCategoria.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Proveedor.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Talla.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Compras\ComprasIndex.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Compras\Create.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Devoluciones\Create.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Devoluciones\DevolucionesIndex.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Informes\ViewInformeCompra.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Informes\ViewInformeInventario.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Informes\ViewInformeVenta.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Inventario\InventarioIndex.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Ventas\Create.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Ventas\Factura.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Ventas\VentasIndex.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Views\Brand\Index.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorTargetAssemblyInfo.cache
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorTargetAssemblyInfo.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.Views.pdb
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.csproj.CopyComplete
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.pdb
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.genruntimeconfig.cache
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Compras\Factura.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Inventario\Edit.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Compras\Factura.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Inventario\Edit.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.exe
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.deps.json
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.runtimeconfig.json
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.runtimeconfig.dev.json
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.Views.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.Views.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.csproj.AssemblyReference.cache
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.AssemblyInfoInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.AssemblyInfo.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.csproj.CoreCompileInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorAssemblyInfo.cache
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorAssemblyInfo.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\CAPA_UI.StaticWebAssets.Manifest.cache
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\CAPA_UI.StaticWebAssets.Pack.cache
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.CAPA_UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.CAPA_UI.props
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.CAPA_UI.props
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.CAPA_UI.props
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.TagHelpers.input.cache
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.TagHelpers.output.cache
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorCoreGenerate.cache
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Acceso\Login.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Acceso\Registrar.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Brand.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Articulo.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\ArticuloBaja.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\ArticuloBodega.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Bodega.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Categoria.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Index.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\InformeArticuloXCategoria.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Proveedor.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Talla.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Compras\ComprasIndex.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Compras\Create.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Compras\Factura.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Devoluciones\Create.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Devoluciones\DevolucionesIndex.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Informes\ViewInformeCompra.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Informes\ViewInformeInventario.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Informes\ViewInformeVenta.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Inventario\Edit.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Inventario\InventarioIndex.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Ventas\Create.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Ventas\Factura.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Ventas\VentasIndex.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Views\Brand\Index.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorTargetAssemblyInfo.cache
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorTargetAssemblyInfo.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.Views.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.csproj.CopyComplete
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.genruntimeconfig.cache
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.exe
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.deps.json
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.runtimeconfig.json
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.runtimeconfig.dev.json
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.pdb
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.Views.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_UI.Views.pdb
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_NEGOCIOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\bin\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.csproj.AssemblyReference.cache
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.AssemblyInfoInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.AssemblyInfo.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.csproj.CoreCompileInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorAssemblyInfo.cache
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorAssemblyInfo.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\CAPA_UI.StaticWebAssets.Manifest.cache
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\CAPA_UI.StaticWebAssets.Pack.cache
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.CAPA_UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.CAPA_UI.props
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.CAPA_UI.props
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.CAPA_UI.props
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.TagHelpers.input.cache
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.TagHelpers.output.cache
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorCoreGenerate.cache
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Acceso\Login.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Acceso\Registrar.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Brand.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Articulo.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\ArticuloBaja.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\ArticuloBodega.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Bodega.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Categoria.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Index.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\InformeArticuloXCategoria.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Proveedor.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogos\Talla.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Compras\ComprasIndex.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Compras\Create.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Compras\Factura.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Devoluciones\Create.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Devoluciones\DevolucionesIndex.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Informes\ViewInformeCompra.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Informes\ViewInformeInventario.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Informes\ViewInformeVenta.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Inventario\Edit.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Inventario\InventarioIndex.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Ventas\Create.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Ventas\Factura.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\Ventas\VentasIndex.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\Razor\Views\Brand\Index.cshtml.g.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorTargetAssemblyInfo.cache
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.RazorTargetAssemblyInfo.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.Views.pdb
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.csproj.CopyComplete
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.pdb
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_UI\obj\Debug\netcoreapp3.1\CAPA_UI.genruntimeconfig.cache

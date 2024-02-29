@@ -1,0 +1,282 @@
+﻿@page
+@model CAPA_UI.Pages.MaestrosDetalles.Devoluciones.CreateModel
+@{
+}
+@section Scripts{
+<script>
+
+    //Objeto que enviaremos al crear la Devolucion
+    Devolucion = {
+        cabecera:{
+         TableName: 'CRUD_CABECERA_DEVOLUCION',
+         Parametro: 'C',
+         IdCabDevolucion:0,
+         FechaDevolucion: new Date(),
+         IdTipoDevolucion:0,
+         DescuentoDevolucion:0,
+         CodigoReferencia:'',
+         NotaDevolucion:'',
+        },
+        detalle:[]
+    }
+
+    //Asignamos fecha de hoy al input de fecha
+    document.addEventListener('DOMContentLoaded', () => {
+      const dateInput = document.getElementById('staticFecha')
+      dateInput.value = new Date().toLocaleDateString('es-MX',{year: 'numeric', month: 'long', day: 'numeric'});
+    });
+
+    //Añadir una fila mas al detalle de la Devolucion
+    function addRow(){
+        //Tomamos los valores del Formulario
+        let cbArticulo = document.getElementById("TxtIdCategoria");
+        let ArticuloId = parseInt(cbArticulo.value)
+        let ArticuloNombre = cbArticulo.options[cbArticulo.selectedIndex].text;
+        let Cantidad = parseInt(document.getElementById("TxtCantidadDetalleDevolucion").value);
+        let Precio = parseInt(document.getElementById("TxtPrecioDetalleDevolucion").value);
+
+        let ObjetoDetalle = {
+              TableName :'CRUD_DETALLE_DEVOLUCION',
+              Parametro :'C',
+              FkDevolucion:0 ,
+              FkArticulo:ArticuloId,
+              Cantidad:Cantidad,
+              Precio: Precio,
+        }
+        
+        if(isNaN(Cantidad) || isNaN(Precio)|| Math.sign(Cantidad) !==1 || Math.sign(Precio) !==1){
+            alert('Por favor Asegurar de llenar todos los campos del formulario con un valor valido antes de Agregar un articulo')
+            return
+        }
+
+        //Ver si el articulo ya existia en el objeto para sumar sus cantidades y precio si no solamente se agrega al arreglo
+        let detalleDevolucion = Devolucion.detalle.find(det => det.FkArticulo === ObjetoDetalle.FkArticulo)
+        if(!detalleDevolucion){
+            Devolucion.detalle.push(ObjetoDetalle);
+            createTableRowDOM(ArticuloId,ArticuloNombre,Cantidad,Precio)
+            console.log(Devolucion)
+        }
+        else{
+            let index = Devolucion.detalle.indexOf(detalleDevolucion);
+            Devolucion.detalle[index].Cantidad += ObjetoDetalle.Cantidad;
+            Devolucion.detalle[index].Precio += ObjetoDetalle.Precio;
+            updateTableRowDOM(ArticuloId,Devolucion.detalle[index].Cantidad,Devolucion.detalle[index].Precio)
+            console.log(Devolucion)
+        }
+        //Actualizamos los precios
+        setStaticPrices();
+    }
+    
+    //Eliminar el detalle tanto del objeto Devolucion como del Html
+    function deleteTableRow(ArticuloId){
+        //Eliminamos la Fila del Html
+        let trArticulo = document.getElementById(`tr-${ArticuloId}`);
+        trArticulo.parentElement.removeChild(trArticulo);
+        //Eliminamos el Objeto del Array de Detalle
+        let detalleDevolucion = Devolucion.detalle.find(det => det.ArticuloId === ArticuloId)
+        let index = Devolucion.detalle.indexOf(detalleDevolucion);
+        Devolucion.detalle.splice(index,1);
+        //Actualizamos los precios
+        setStaticPrices();
+    }
+
+    // Añadir el html del la nueva linea
+    function createTableRowDOM(ArticuloId,ArticuloNombre,Cantidad,Precio){
+        //Asignamos nuestro TBody
+        let tablebody = document.getElementById("tbl-detalle");
+        
+        //Creamos la fila de la tabla
+        let fila = document.createElement("tr");
+        fila.id = `tr-${ArticuloId}`;
+
+        //Creamos los TD de la fila
+        let tdArticuloNombre = document.createElement("td");
+        let tdCantidad = document.createElement("td");
+        tdCantidad.id = `td-cantidad-${ArticuloId}`
+        let tdPrecio = document.createElement("td");
+        tdPrecio.id = `td-precio-${ArticuloId}`
+        let tdAcciones = document.createElement("td");
+        
+        //Asignamos los valores que tendra nuestros Td
+        let txtArticuloNombre = document.createTextNode(ArticuloNombre);
+        let txtCantidad = document.createTextNode(Cantidad);
+        let txtPrecio = document.createTextNode(`C$ ${Precio}`);
+
+        console.log("tbl-detalle");
+
+        //Creamos el boton delete con el evento de eliminar el detalle
+        let btnDelete = document.createElement("button");
+        btnDelete.type = 'button';
+        btnDelete.className = 'btn btn-danger';
+        btnDelete.addEventListener('click',()=>deleteTableRow(ArticuloId))
+        btnDelete.innerText = 'Eliminar';
+
+        //Añadimos lo valores a nuestros Td
+        tdArticuloNombre.appendChild(txtArticuloNombre);
+        tdCantidad.appendChild(txtCantidad);
+        tdPrecio.appendChild(txtPrecio);
+        tdAcciones.appendChild(btnDelete);
+
+        //Añadimos nuestros Td a la fila Creada
+        fila.appendChild(tdArticuloNombre);
+        fila.appendChild(tdCantidad);
+        fila.appendChild(tdPrecio);
+        fila.appendChild(tdAcciones)
+        
+        //Añadimos nuestra fila creada a nuestro TBody
+        tablebody.appendChild(fila);
+    }
+
+    //Actualizar el Html de la Linea
+    function updateTableRowDOM(ArticuloId,Cantidad,Precio){
+        let tdCantidad = document.getElementById(`td-cantidad-${ArticuloId}`);
+        let tdPrecio = document.getElementById(`td-precio-${ArticuloId}`);
+        tdCantidad.innerText = Cantidad;
+        tdPrecio.innerText = `C$ ${Precio}`;
+    }
+    
+    //Actualizamos los precios de los Input Staticos
+    function setStaticPrices(){
+        let StaticSubTotal = document.getElementById('staticSubTotal');
+        let StaticIva = document.getElementById('staticIVA');
+        let StaticPrecioTotal = document.getElementById('staticPrecioTotal');
+        let Cantidad = document.getElementById("TxtCantidadDetalleDevolucion");
+        let Precio = document.getElementById("TxtPrecioDetalleDevolucion");
+
+
+        let PrecioTotal = Devolucion.detalle.map(det=> det.PrecioDevolucion).reduce((prev,current)=> prev+current,0);
+        let Iva = PrecioTotal * 0.15;
+        let SubTotal = PrecioTotal - Iva;
+
+        StaticSubTotal.value =  `C$ ${SubTotal}`;
+        StaticIva.value =  `C$ ${Iva}`;
+        StaticPrecioTotal.value =  `C$ ${PrecioTotal}`;
+        Cantidad.value=0;
+        Precio.value =0;
+    }
+
+    async function createDevolucion(){
+        if(Devolucion.detalle.length==0){
+            alert('Para crear la Devolucion necesita tener al menos un Articulo en el detalle')
+         return;
+        }
+        if(!confirm('Revise todos los datos, esta seguro de crear la Devolucion?')){
+         return;
+        }
+        let IdTipoDevolucion = parseInt(document.getElementById("TxtIdTipoDevolucion").value);
+        Devolucion.cabecera.IdTipoDevolucion = IdTipoDevolucion;
+        let ReferenciaDevolucion = parseInt(document.getElementById("TxtReferenciaDevolucion").value);
+        let NotaDevolucion = document.getElementById("TxtNotaDevolucion").value;
+
+        
+        if(isNaN(ReferenciaDevolucion) || Math.sign(ReferenciaDevolucion) !==1 || !NotaDevolucion){
+         alert('Para crear la devolucion necesita tener una referencia numerica de la factura y una Nota de devolucion')
+         return;
+        }
+
+        Devolucion.cabecera.CodigoReferencia = ReferenciaDevolucion;
+        Devolucion.cabecera.NotaDevolucion = NotaDevolucion;
+
+        let Url = '../api/Devoluciones/SaveDevolucion';
+        let result = await fetch(Url,{ 
+            method:"POST",
+            headers: {
+            'Content-Type': "application/json; charset=utf-8",
+            'Accept': ""
+            },
+            body:JSON.stringify(Devolucion)
+        })
+        .then(response => response.json());
+
+        alert(`La Devolucion se ha creado! con el proveedorId ${Devolucion.cabecera.IdTipoDevolucion} Iva ${Devolucion.cabecera.CodigoReferencia} NotaDevolucion ${Devolucion.cabecera.NotaDevolucion}`)
+        window.location ='/Devoluciones/DevolucionesIndex';
+    }
+
+
+</script>
+}
+<div style="margin-top:10pt">
+    <a asp-page="/Index"> <input type="button" class="btn-success" value="Ir a Inicio" /></a>
+    <a asp-page="/Devoluciones/DevolucionesIndex"> <input type="button" class="btn-info" value="Volver a listado de devoluciones" /></a>
+</div>
+
+<form>
+  <div class="row">
+      <div class="form-group col-md-4">
+        <label for="staticFecha">Fecha:</label>
+        <input type="text" readonly class="form-control" id="staticFecha" value=@{DateTime.Now.ToString();}>
+      </div>
+      <div class="form-group col-md-4">
+            <label>Tipo de Devolucion:</label>
+            <select id="TxtIdTipoDevolucion" class="custom-select">
+                @foreach(var item in Model.TipoDevoluciones)
+                {
+                    <option value=@item.IdTipoDevolucion>@item.Descripcion</option>
+                }
+            </select>
+      </div>
+      <div class="form-group col-md-4">
+        <label for="staticFecha">Referencia:</label>
+        <input type="text" id="TxtReferenciaDevolucion" class="form-control" min=0 placeholder="Ingrese la referencia de la devolucion" />
+      </div>
+  </div>
+  
+  <div class="row">
+      <div class="form-group col-md-12">
+        <label for="staticFecha">Nota de la devolucion:</label>
+        <input type="text" id="TxtNotaDevolucion" class="form-control" min=0 placeholder="Ingrese la nota de la devolucion" />
+      </div>
+  </div>
+  <div class = "row">
+      <div class="form-group col-md-4">
+            <label>Articulo:</label>
+            <select id="TxtIdCategoria" class="custom-select">
+                @foreach(var item in Model.Articulos)
+                {
+                    <option value=@item.IdArticulo>@item.NombreArticulo</option>
+                }
+            </select>
+      </div>
+      <div class="form-group col-md-4">
+            <label>Cantidad:</label>
+            <input type="number" id="TxtCantidadDetalleDevolucion" class="form-control" min=0 placeholder="Ingrese la Cantidad"/>
+            <span class="text-danger"></span>
+      </div>       
+      <div class="form-group col-md-4">
+            <label>Precio:</label>
+            <input type="number" id="TxtPrecioDetalleDevolucion" class="form-control" min=0 placeholder="Ingrese el Precio" />
+            <span class="text-danger"></span>
+      </div>
+  </div>
+  <div class="row">
+      <div class="form-group col-md-4">
+        <label for="staticEmail">Sub Total:</label>
+        <input type="text" readonly class="form-control" id="staticSubTotal" value="C$ 0">
+      </div>
+      <div class="form-group col-md-4">
+        <label for="staticEmail">IVA:</label>
+        <input type="text" readonly class="form-control" id="staticIVA" value="C$ 0">
+      </div>
+      <div class="form-group col-md-4">
+        <label for="staticEmail">Total:</label>
+        <input type="text" readonly class="form-control" id="staticPrecioTotal" value="C$ 0">
+      </div>
+  </div>
+  <button type="button" class="btn btn-success"  onclick="addRow()">Agregar Articulo</button>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Articulo</th>
+            <th>Cantidad</th>
+            <th>Precio</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody id="tbl-detalle">
+    </tbody>
+</table>
+
+<div class="modal-footer">
+    <button type="button" class="btn btn-success" id="Crear" onclick="createDevolucion()" >Crear Devolucion</button>
+</div>

@@ -1,0 +1,251 @@
+﻿@page
+@model ArticuloModel
+}
+
+@section Scripts {
+
+    <script type="text/javascript" src="@Url.Content("../js/TablaComponent.js")">    </script>
+    <script type="text/javascript">
+    </script>
+    <script type="module">
+        const reload = document.getElementById('Editar');
+        reload.addEventListener('click', _ => {
+            location.reload();
+        });;
+    </script>
+    <script>
+
+   
+
+        async function Edit () {
+           //Check fields
+            if (TxtNombre.value == '' || TxtDescripcion.value == ''){alert("Rellana todos los campos");return}
+            
+            const ObjInst = {
+                Parametro: TxOperacion.value.length === 1 ? TxOperacion.value : 'C',
+                IdArticulo: TxtId.value.length > 0 ? TxtId.value : 1,
+                NombreArticulo: TxtNombre.value,
+                DescripcionArticulo: TxtDescripcion.value,
+                EstadoArticulo: TxtEstado.value,
+                IdCategoria: TxtIdCategoria.value,
+                IdTalla: TxtIdTalla.value,
+                IdBodega: TxtIdBodega.value,
+                PrecioVenta: 0
+                //PrecioVenta: TxtPrecioVenta.value
+            }
+           
+            //console.log(TxOperacion.value)
+            console.log(ObjInst)
+            let Url = "../api/Catalogos/SaveArticulo";
+            console.log(Url)
+            let response = await fetch(Url, 
+                {
+                method: "POST",
+                headers: {
+                    'Content-Type': "application/json; charset=utf-8",
+                    'Accept': ""
+                },
+                body: JSON.stringify(ObjInst)
+            });;
+            location.reload();
+        }
+        async function Update() {
+            let Url = '../api/Catalogos/UpdateArticulo';
+            let data = parseInt(event.target.getAttribute('value'));
+            let result = await fetch(Url, {
+                method: "PUT",
+                headers: {
+                    'Content-Type': "application/json; charset=utf-8",
+                    'Accept': "*//*"
+                },
+                body: JSON.stringify(data)
+            })
+                .then(response => response.json());
+            console.log(result);
+            location.reload();
+        }
+        async function Delete() {
+            let Url = '../api/Catalogos/DeleteArticulo';
+            let data = parseInt(event.target.getAttribute('value'));
+            let result = await fetch(Url, {
+                method: "DELETE",
+                headers: {
+                    'Content-Type': "application/json; charset=utf-8",
+                    'Accept': "*//*"
+                },
+                body: JSON.stringify(data)
+            })
+                .then(response => response.json());
+            console.log(result);
+            location.reload();
+        }
+        async function LoadValues(item)
+        {
+            window.scrollTo(0, 0);
+            console.log(item);
+            let articulosList = JSON.parse('@Html.Raw(Json.Serialize(Model.listInfor))') 
+            console.log(articulosList);
+            let articulo = articulosList.find(x => x.idArticulo === item)
+            console.log(articulo.nombreArticulo);
+            TxtNombre.value = articulo.nombreArticulo;
+            TxtDescripcion.value = articulo.descripcionArticulo;
+            TxtEstado.value = articulo.estadoArticulo;
+            TxtIdCategoria.value = articulo.idCategoria;
+            TxtIdTalla.value = articulo.idTalla,
+            TxtIdBodega.value = articulo.idBodega;
+            TxtPrecioVenta.value = articulo.precioVenta;
+            TxOperacion.value = 'U';
+            TxtId.value = articulo.idArticulo;
+           
+            var _modalHeader = document.getElementById("modalHeader");
+            _modalHeader.textContent = "Editar Articulo";   
+        }
+        
+        
+    </script>
+}
+
+@*Se crea el modal de Articulo*@
+
+
+<div class="row" id="ModalArticulo">
+    <div class="modal-dialog modal-lg ">
+        <div class=" modal-content">
+            <form method="post" enctype="multipart/form-data">
+                <div class="modal-header">
+                    <h2 class="modal-title text-primary text-center" id="modalHeader">Agregar Nuevo Articulo</h2>
+                </div>
+                <div class="modal-body">
+                    <div>
+                        <div class="row p-3 border-0">
+                            <div class="text-danger"></div>
+                        </div>
+
+                        <input type="hidden" class="form-control" id="TxtId"/>
+
+                        <div class="form-row" style="padding-top:14px;">
+                            <div class="form-group col-md-6">
+                                <label>Nombre</label>
+                                <input type="text" id="TxtNombre" class="form-control" placeholder="Nombre"/>
+                                <span class="text-danger"></span>
+
+                            </div>
+
+
+                            <div class="form-group col-md-6">
+                                <label>Descripcion</label>
+                                <input type="text" id="TxtDescripcion" class="form-control" placeholder="Descripcion"/>
+                                <span class="text-danger"></span>
+                            </div>
+
+                            <div>
+                                <div class="form-group" style="margin-left:10px">
+                                    <label>Estado</label>
+                                    <select id="TxtEstado" class="custom-select">
+                                        <option value="1">Activo</option>
+                                        <option value="0">Inactivo</option>
+                                    </select>
+
+                                </div>
+                            </div>
+                            <div style="display:none;">
+                            <div class="form-group col-md-6">
+                                <label>Categoria</label>
+                                <select id="TxtIdCategoria" class="custom-select">
+                                    @foreach (var item in Model.Categorias)
+                                    {
+                                        <option value=@item.IdCategoria>@item.DescripcionCategoria</option>
+                                    }
+                                </select>
+                            </div>
+
+                            <div class="form-group col-md-6">
+                                <label>Tipo de Medida</label>
+                                <select id="TxtIdTalla" class="custom-select">
+                                    @foreach (var item in Model.Tallas)
+                                    {
+                                        <option value=@item.IdTalla>@item.DescripcionTalla</option>
+                                    }
+
+                                </select>
+                            </div>
+
+                            <div>
+                                <div class="form-group" style="margin-left:10px">
+                                    <label>Bodega</label>
+                                    <select id="TxtIdBodega" class="custom-select">
+                                        <option value="1">Principal</option>
+                                        <option value="2">Secundaria</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="form-group col-md-6">
+                                @*<label>Precio Venta</label>*@
+                                <input type="hidden" id="TxtPrecioVenta" class="form-control" placeholder="$"/>
+                                <span class="text-danger"></span>
+                            </div>
+                            <input type="hidden" id="TxOperacion" class="form-control"/>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger">Cancelar</button>
+                    <button type="button" class="btn btn-success" onclick="Edit()">Grabar Cambios</button>
+                </div>
+            </form>
+        </div>
+
+    </div>
+</div>
+
+<table class="table table-dark" id="data">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Nombre</th>
+        <th>Descripcion</th>
+   
+        <th>Estado</th>
+       
+        @*<th>Precio de Venta Unitario</th>*@
+      
+        <th>Acciones</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model.listInfor)
+    {
+        <tr>
+            <td>
+                @item.IdArticulo
+            </td>
+            <td>
+                @item.NombreArticulo
+            </td>
+            <td>
+                @item.DescripcionArticulo
+            </td>
+            @*<td>
+                @item.IdTalla
+            </td>*@
+            <td>
+                @item.EstadoArticulo
+            </td>
+            @*<td>
+                @item.IdCategoria
+            </td>*@
+            @*<td>
+                @item.PrecioVenta
+            </td>
+            <td>
+                @item.IdBodega
+            </td>*@
+            <td>
+                <button type="button" class="btn btn-success" onclick="LoadValues(@item.IdArticulo)">Editar</button>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

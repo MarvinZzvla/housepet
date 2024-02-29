@@ -1,0 +1,194 @@
+﻿@page
+@model CAPA_UI.Pages.Inventario.EditModel
+@{
+}
+
+
+<div class="row" id="ModalArticulo">
+    <div class="modal-dialog modal-lg ">
+        <div class=" modal-content">
+            <form method="post" enctype="multipart/form-data">
+                <div class="modal-header">
+                    <h2 class="modal-title text-primary text-center" id="modalHeader">Editar Inventario</h2>
+                </div>
+                <div class="modal-body">
+                    <div>
+                        <div class="row p-3 border-0">
+                            <div class="text-danger"></div>
+                        </div>
+
+                        <input type="hidden" class="form-control" id="TxtId"/>
+
+                        <div class="form-row" style="padding-top:14px;">
+                            <div class="form-group col-md-6">
+                                <label>Nombre</label>
+                                <input type="text" id="TxtNombre" class="form-control" placeholder="Nombres"/>
+                                <span class="text-danger"></span>
+
+                            </div>
+
+
+                            <div class="form-group col-md-6">
+                                <label>Descripcion</label>
+                                <input type="text" id="TxtDescripcion" class="form-control" placeholder="Descripcion"/>
+                                <span class="text-danger"></span>
+                            </div>
+
+                            <div>
+                                <div class="form-group" style="margin-left:10px">
+                                    <label>Estado</label>
+                                    <select id="TxtEstado" class="custom-select">
+                                        <option value="1">Activo</option>
+                                        <option value="0">Inactivo</option>
+                                    </select>
+
+                                </div>
+                            </div>
+                            <div style="display:none;">
+                            <div class="form-group col-md-6">
+                                <label>Categoria</label>
+                                <select id="TxtIdCategoria" class="custom-select">
+                                    @foreach (var item in Model.Categorias)
+                                    {
+                                        <option value=@item.IdCategoria>@item.DescripcionCategoria</option>
+                                    }
+                                </select>
+                            </div>
+
+                            <div class="form-group col-md-6">
+                                <label>Tipo de Medida</label>
+                                <select id="TxtIdTalla" class="custom-select">
+                                    @foreach (var item in Model.Tallas)
+                                    {
+                                        <option value=@item.IdTalla>@item.DescripcionTalla</option>
+                                    }
+
+                                </select>
+                            </div>
+                            </div>
+
+                            @*<div>
+                                <div class="form-group" style="margin-left:10px">
+                                    <label>Bodega</label>
+                                    <select id="TxtIdBodega" class="custom-select">
+                                        <option value="1">Principal</option>
+                                    </select>
+                                </div>
+                            </div>*@
+
+                            <div class="form-group col-md-6">
+                                <label>Existencias</label>
+                                <input type="text" id="TxtExistencias" class="form-control" placeholder="Existencias" />
+                                <span class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group col-md-6">
+                                @*<label>Precio Venta</label>*@
+                                <input type="hidden" id="TxtPrecioVenta" class="form-control" placeholder="$"/>
+                                <span class="text-danger"></span>
+                            </div>
+                            <input type="hidden" id="TxOperacion" class="form-control"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" onclick="Back()">Cancelar</button>
+                    <button type="button" class="btn btn-success" onclick="Update()">Grabar Cambios</button>
+                </div>
+            </form>
+        </div>
+
+    </div>
+</div>
+<script>
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const id = urlParams.get('id')
+
+    LoadValues(parseInt(id));
+
+    async function SaveInventario(item) {
+        let existenciasList = JSON.parse('@Html.Raw(Json.Serialize(Model.listInventario))')
+        let existencias = existenciasList.find(x => x.idArticulo === item)
+        var nuevaExistencia = parseInt(TxtExistencias.value)
+        
+        var cantidadAdd = nuevaExistencia - (existencias.compras - existencias.ventas)
+        
+
+        var ObjInst = {
+            id:item,
+            cantidad:cantidadAdd
+        }
+        let Url = "../api/Inventario/SaveInventario";
+        console.log(Url)
+        let response = await fetch(Url,
+            {
+                method: "POST",
+                headers: {
+                    'Content-Type': "application/json; charset=utf-8",
+                    'Accept': ""
+                },
+                body: JSON.stringify(ObjInst)
+            });;
+    }
+
+    async function Update(){
+        const ObjInst = {
+            Parametro: TxOperacion.value.length === 1 ? TxOperacion.value : 'C',
+            IdArticulo: TxtId.value.length > 0 ? TxtId.value : 1,
+            NombreArticulo: TxtNombre.value,
+            DescripcionArticulo: TxtDescripcion.value,
+            EstadoArticulo: TxtEstado.value,
+            IdCategoria: TxtIdCategoria.value,
+            IdTalla: TxtIdTalla.value,
+            PrecioVenta: 0
+            //PrecioVenta: TxtPrecioVenta.value
+        }
+        console.log('estoy aqui');
+        console.log(TxOperacion.value)
+        console.log(ObjInst)
+        let Url = "../api/Catalogos/SaveArticulo";
+        console.log(Url)
+        let response = await fetch(Url,
+            {
+                method: "POST",
+                headers: {
+                    'Content-Type': "application/json; charset=utf-8",
+                    'Accept': ""
+                },
+                body: JSON.stringify(ObjInst)
+            });;
+       await SaveInventario(parseInt(TxtId.value))
+        location.replace("InventarioIndex");
+        
+    
+    }
+
+    async function LoadValues(item) {
+        window.scrollTo(0, 0);
+        console.log(item);
+        let articulosList = JSON.parse('@Html.Raw(Json.Serialize(Model.listInfor))')
+        let existenciasList = JSON.parse('@Html.Raw(Json.Serialize(Model.listInventario))')
+        console.log(existenciasList)
+        let articulo = articulosList.find(x => x.idArticulo === item)
+        let existencias = existenciasList.find(x => x.idArticulo === item)
+        console.log(existencias.compras);
+        TxtNombre.value = articulo.nombreArticulo;
+        TxtDescripcion.value = articulo.descripcionArticulo;
+        TxtEstado.value = articulo.estadoArticulo;
+        TxtIdCategoria.value = articulo.idCategoria;
+        TxtIdTalla.value = articulo.idTalla,
+        TxtPrecioVenta.value = articulo.precioVenta;
+        TxOperacion.value = 'U';
+        TxtId.value = articulo.idArticulo;
+        TxtExistencias.value = (existencias.compras - existencias.ventas)
+
+        var _modalHeader = document.getElementById("modalHeader");
+        _modalHeader.textContent = "Editar Inventario: " + TxtNombre.value;
+    }
+
+    function Back(){
+        location.replace("InventarioIndex");
+    }
+
+</script>

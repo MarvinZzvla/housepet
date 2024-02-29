@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CAPA_UI.props" />
+</Project>

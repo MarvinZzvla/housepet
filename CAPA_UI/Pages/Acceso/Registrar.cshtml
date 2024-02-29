@@ -1,0 +1,109 @@
+﻿@page
+@model CAPA_UI.Pages.Acceso.RegistrarModel
+@{
+    Layout = "~/Pages/Shared/_LayoutLogin.cshtml";
+        
+}
+
+<style>
+
+    .register{
+        color: white;
+    }
+</style>
+
+<script>
+
+    async function registrar(){
+        var date = new Date().toLocaleDateString() + " - " + new Date().toLocaleTimeString()
+        if (password.value != '' && nombre.value != '' && email.value != '') {
+
+            if(confirmPassword.value == password.value){
+                localStorage.setItem("userName", user.nombreCompleto)
+                localStorage.setItem("dateTime", date)
+                /****** SUCCESS */
+        const ObjInst = {
+                    Correo: email.value,
+                    NombreCompleto: nombre.value,
+                    Clave: password.value
+        }
+        console.log(ObjInst);
+
+       let Url = "../api/Access/SaveUsuario";
+            console.log(Url)
+            let response = await fetch(Url, 
+                {
+                method: "POST",
+                headers: {
+                   'Content-Type': "application/json; charset=utf-8",
+                    'Accept': ""
+                },
+                body: JSON.stringify(ObjInst)
+            });;
+            alert("Se creado el usuario con exito")
+            location.replace("/Catalogos/Index")
+
+            }
+            else{
+                alert("Las contraseñas no coinciden");
+            }
+            
+        }
+        else{
+            alert("Completar todos los campos");
+        }
+       
+    }
+
+    function redirect() {
+        console.log("Hello")
+        location.replace("/./Index")
+    }
+
+ </script>
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<body>
+    <div class="container">
+        <div class="col-md-6 mx-auto text-center">
+            <div class="header-title">
+                <h1 class="register wv-heading--title">
+                    House pets
+                </h1>
+                <h2 class="register wv-heading--subtitle">
+                    Registrar un nuevo usuario
+                </h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 mx-auto">
+                <div class="myform form ">
+                    <form action="" method="post" name="login">
+                        <div class="form-group">
+                            <input type="text" name="nombre" class="form-control my-input" id="nombre" placeholder="Nombre Completo">
+                        </div>
+                        <div class="form-group">
+                            <input type="email" name="email" class="form-control my-input" id="email" placeholder="Correo">
+                        </div>
+                        <div class="form-group">
+                            <input type="password" min="0" name="password" id="password" class="form-control my-input" placeholder="Contraseña">
+                        </div>
+                        <div class="form-group">
+                            <input type="password" min="0" name="confirmPassword" id="confirmPassword" class="form-control my-input" placeholder="Confirmar Contraseña">
+                        </div>
+                        <div class="text-center ">
+                            <input type="hidden" class="form-control" id="TxtId" />
+                            <input type="hidden" id="TxOperacion" class="form-control" />
+                            <button type="button" class=" btn btn-success send-button tx-tfm" onclick="registrar()">Crear Usuario</button>
+                            <button type="button" class=" btn btn-danger send-button tx-tfm" onclick="redirect()">Cancelar</button>
+                        </div>
+                 
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>

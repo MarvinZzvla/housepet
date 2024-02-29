@@ -1,0 +1,210 @@
+﻿@page
+@model ProveedorModel
+@{
+}
+
+@section Scripts {
+    <script type="text/javascript" src="@Url.Content("../js/TablaComponent.js")"></script>
+
+    <script type="module">
+        window.onload = async () => {
+            let UrlP = "../api/Catalogos/SaveProveedor";
+            let response = await fetch(UrlP, {
+                method: "GET",
+                headers: {
+                    'Content-Type': "application/json; charset-utf-8",
+                    'Accept': "*/*"
+                }
+            });
+            response = await response.json();
+            console.log(response)
+            CreateTable(response, TableData)
+
+        }
+
+        const reload = document.getElementById('Editar');
+
+        reload.addEventListener('click', _ => { // el _ es para indicar la ausencia de parametros
+            //location.reload();
+        });
+    </script>
+    <script>
+        window.edit = async () => {
+
+               if(checkFields()){alert("Porfavor rellenen todos los campos");return}
+
+                    const ObjInst = {
+                        Parametro: TxOperacion.value.length === 1 ? TxOperacion.value : 'C',
+                        IdProveedor: TxtId.value.length > 0 ? TxtId.value : 1,
+                        NombreProveedor: TxtNombre.value,
+                        TelefonoProveedor: TxtTelefonoTel.value,
+                        CelularProveedor: TxtTelefonoCel.value,
+                        DireccionProveedor: TxtDireccion.value,
+                        RucProveedor: TxtRuc.value,
+                        EstadoProveedor: TxtEstado.value
+                    }
+        
+                    let Url = "../api/Catalogos/SaveProveedor";
+                    let response = await fetch(Url,
+                        {
+                            method: "POST",
+                            headers: {
+                                'Content-Type': "application/json; charset=utf-8",
+                                'Accept': "*//*"
+                            },
+                            body: JSON.stringify(ObjInst)
+                        });
+                    window.location.reload();
+                       
+        }
+          function checkFields(){
+            return (TxtNombre.value == '' || TxtTelefonoTel.value == '' || 
+            TxtTelefonoCel.value == '' || TxtDireccion.value == '' || TxtRuc.value == '')
+        }
+        async function LoadValues(item)
+        {
+            window.scrollTo(0, 0);
+            console.log(item);
+            let listItems = JSON.parse('@Html.Raw(Json.Serialize(@Model.listInfor))');
+            console.log(listItems);
+            let singleItem = listItems.find(x => x.idProveedor === item);
+            
+            TxtNombre.value = singleItem.nombrePorveedor;
+            TxtTelefonoTel.value = singleItem.telefonoOProveedor;
+            TxtTelefonoCel.value = singleItem.telefonoCProveedor;
+            TxtDireccion.value = singleItem.direccionProveedor;
+            TxtRuc.value = singleItem.rucProveedor;
+            TxtEstado.value = singleItem.estadoProveedor;
+           
+            TxOperacion.value = 'U';
+            TxtId.value = singleItem.idProveedor;
+           
+            var _modalHeader = document.getElementById("modalHeader");
+            _modalHeader.textContent = "Editar Proveedor";   
+        }
+
+        </script>
+}
+
+
+
+@*Se crea el modal de Proveedor*@
+<div class="row" id="ModalProveedor">
+    <div class="modal-dialog modal-lg ">
+        <div class=" modal-content">
+            <form method="post" enctype="multipart/form-data">
+                <div class="modal-header">
+                    <h2 class="modal-title text-primary text-center" id="modalHeader">Ingresar Proveedor</h2>
+                </div>
+                <div class="modal-body">
+                    <div>
+                        <div class="row p-3 border-0">
+                            <div class="text-danger"></div>
+                        </div>
+
+                        <input type="hidden" class="form-control" id="TxtId"/>
+
+                        <div class="form-row" style="padding-top:14px;">
+                            <div class="form-group col-md-6">
+                                <label>Nombre</label>
+                                <input type="text" id="TxtNombre" class="form-control" placeholder="Nombre"/>
+                                <span class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group col-md-6">
+                                <label>Oficina</label>
+                                <input type="number" id="TxtTelefonoTel" class="form-control" placeholder="Ingrese el Contacto de la Oficina"/>
+                                <span class="text-danger"></span>
+
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label>Celular</label>
+                                <input type="number" id="TxtTelefonoCel" class="form-control" placeholder="Ingresar Celular"/>
+                                <span class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group col-md-6">
+                                <label>Direccion</label>
+                                <input type="text" id="TxtDireccion" class="form-control" placeholder="Direccion y Pais del Proveedor"/>
+                                <span class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group col-md-6">
+                                <label>RUC</label>
+                                <input type="text" id="TxtRuc" class="form-control" placeholder="RUC"/>
+                                <span class="text-danger"></span>
+                            </div>
+
+                            <div>
+                                <div class="form-group" style="margin-left:10px">
+                                    <label>Estado</label>
+                                    <select id="TxtEstado" class="custom-select">
+                                        <option value="1">Activo</option>
+                                        <option value="0">Inactivo</option>
+                                    </select>
+
+                                </div>
+                            </div>
+                            <input type="hidden" id="TxOperacion" class="form-control"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger">Cancelar</button>
+                    <button type="button" class="btn btn-success" id="Editar" formmethod="post" onclick="edit()">Grabar Cambios</button>
+                </div>
+
+            </form>
+        </div>
+
+    </div>
+</div>
+
+
+<table class="table table-dark">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Nombre</th>
+        <th>Telefono oficina</th>
+        <th>Telefono Celular</th>
+        <th>Direccion</th>
+        <th>RUC</th>
+        <th>Estado</th>
+        <th>Accion</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model.listInfor)
+    {
+        <tr>
+            <td>
+                @item.IdProveedor
+            </td>
+            <td>
+                @item.NombrePorveedor
+            </td>
+            <td>
+                @item.TelefonoOProveedor
+            </td>
+            <td>
+                @item.TelefonoCProveedor
+            </td>
+            <td>
+                @item.DireccionProveedor
+            </td>
+            <td>
+                @item.RUCProveedor
+            </td>
+            <td>
+                @item.EstadoProveedor
+            </td>
+            <td>
+                <button type="button" class="btn btn-success" onclick="LoadValues(@item.IdProveedor)">Editar</button>
+            </td>
+
+        </tr>
+    }
+    </tbody>
+
+</table>

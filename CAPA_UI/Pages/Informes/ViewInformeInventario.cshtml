@@ -1,0 +1,140 @@
+﻿@page
+@{
+}
+
+<script type="module">
+import CreateTableInforme from "../../wwwroot/js/InformeComponent.js"
+	window.onload = function() {
+		document.getElementById('Fecha1').value = new Date().toISOString().substring(0, 10);
+	    document.getElementById('Fecha2').value = new Date().toISOString().substring(0, 10);
+	
+		CargarDatos();
+		BtnUpdate.onclick = () => {
+			CargarDatos();
+		}
+		BtnPrint.onclick = () =>
+		{
+			
+			const PrintNode = Page.innerHTML;
+			const ventimp = window.open (' ', 'popimpr');
+			ventimp.document.write(PrintNode);
+			ventimp.document.close();
+			ventimp.print();
+			ventimp.close();
+		}
+	}
+</script>
+<script>
+	async function GetDataValues(){
+		;(async () => {
+          const response = await CargarDatos();
+		  
+		   var k = '<tbody>'
+              for(i = 0;i < response.length; i++){
+                  k+= '<tr>';
+                  k+= '<td>' + response[i].id + '</td>';
+                  k+= '<td>' + response[i].articulo + '</td>';
+                  k+= '<td>' + response[i].proveedor + '</td>';
+				  k+= '<td>' + response[i].fechaCompra + '</td>';
+				  k+= '<td>' + response[i].precioCompra + '</td>';
+				  k+= '<td>' + response[i].existencias + '</td>';
+                  k+= '</tr>';
+              }
+              k+='</tbody>';
+              document.getElementById('tableData').innerHTML = k;
+		  
+        })();
+	}
+	
+	const CargarDatos = async () => {
+    		let UrlP = "../api/Informes/TakeInformeExistencias";
+			
+    		const ObjInst = {
+    			Params:[Fecha1.value, Fecha2.value]
+    		}
+    		let response = await fetch(UrlP, {
+    			method: "POST",
+    			headers:{
+    				'Content-Type': "application/json; charset=utf-8",
+    				'Accept': ""
+    			},
+    			body: JSON.stringify(ObjInst)
+    		});
+    		response = await response.json();
+    		console.log(response);
+    		labelSubtitle.innerText = `INFORME DE EXISTENCIAS HOUSE PETS
+    		Del ${Fecha1.value} al ${Fecha2.value}`;
+    		
+    		/*let sum = 0;
+    		response.forEach(element => {
+    			sum = sum + element.total;
+    		});
+    
+    		LabelTotal.append(" " + sum)*/
+    		return response;
+    	}
+</script>
+
+<div class="FrmContainer">
+	<input type="date" id="Fecha1" class="form-control-sm" value="2023-01-01"/>
+    	<input type="date" id="Fecha2" class="form-control-sm" value="2024-01-01"/>
+</div>
+
+<div class="FrmContainer">
+	<input class="btn-success" type="button" id="BtnPrint" value="Imprimir"/>
+	<input class="btn-success" type="button" id="BtnUpdate" onclick="GetDataValues()" value="Actualizar"/>
+</div>
+
+<div class="InformeContainer">
+	<div class="page" id="Page">
+		<style>
+			.InformeContainer{
+				background-color: #b99b9b;
+				padding: 20px;
+				height:600px;
+				overflow:auto;
+				border:solid 2px #888;
+			}
+			.page{
+				background-color:#fff;
+				width:22cm;
+				height:25.7cm;
+				display:block;
+				margin: 0 auto;
+				margin-bottom: 0.5cm;
+				box-shadow:0 0 0.5cm rgba(0,0,0,0.5);
+				padding: 1cm 2cm;
+			}
+			h1, h4{
+				text-align:center;
+			}
+			.TableInforme{
+				width:100%;
+				margin-bottom:30px;
+			}
+
+				.TableInforme td, .TableInforme th{
+					border-bottom:solid 1px #b9b9b9;
+				}
+		</style>
+		<section>
+			<h4 id="labelSubtitle">INFORME DE EXISTENCIAS HOUSE PETS</h4>
+			<table id="TableData" class="TableInforme">
+				<thead>
+				<thead>
+                    <tr>
+                        <th>Id de compra</th>
+                        <th>Articulo</th>
+                        <th>Proveedor</th>
+	                    <th>Fecha de compra</th>
+	                    <th>Precio de compra</th>
+	                    <th>Existencias</th>
+                    </tr>
+                </thead>
+				 <tbody id="tableData"></tbody>
+			</table>
+		<hr />
+		<label id="LabelTotal"> Total: </label>
+		</section>
+	</div>
+</div>

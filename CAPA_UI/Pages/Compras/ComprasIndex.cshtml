@@ -1,0 +1,68 @@
+﻿@page
+@model CAPA_UI.Pages.MaestrosDetalles.Compras.ComprasIndexModel
+@{
+}
+
+@section Scripts {
+<script type="module">
+
+</script>
+}
+
+<script>
+    async function generarFactura(item) {
+        window.location.replace("Factura?id=" + item)
+    }
+
+</script>
+
+<div style="margin-top:10pt">
+    <a asp-page="/Index"> <input type="button" class="btn-success" value="Ir a Inicio" /></a>
+    <a asp-page="/Compras/Create"> <input type="button" class="btn-info" value="Crear una nueva compra" /></a>
+</div>
+
+<table class="table table-striped table-dark" style="margin-top:40pt; align-content:center " >
+    <thead>
+        <tr>
+            <th>ID Compra</th>
+            <th>Proveedor</th>
+            <th>Fecha de Compra</th>
+            <th>IVA (Automatico)</th>
+            <th>Descuento</th>
+            <th>Total</th>
+            @*<th>Acciones</th>*@
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.listInfor)
+        {
+            <tr>
+                <td>
+                    @item.IdCabCompra
+                </td>
+                <td>
+                    @item.NombreProvedor
+                </td>
+                <td>
+                    @item.FechaCompra
+                </td>
+                <td>
+                  C$  @item.IvaCompra
+                </td>
+                <td>
+                    C$ @item.DescuentoCompra
+                </td>
+                <td>
+                  C$ @item.TotalCompra
+                </td>
+                @*<td>
+                    <button type="button" class="btn btn-success" data-toggle="modal" data-target="#ModalDetalleCompra" >Ver detalles</button>
+                </td>*@
+                <td>
+                    <button type="button" class="btn btn-success" onclick="generarFactura(@item.IdCabCompra)">Factura</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

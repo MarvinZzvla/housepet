@@ -1,0 +1,106 @@
+﻿
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Login";
+} 
+@{
+    Layout = null;
+    
+}
+
+<script>
+  
+    async function verificar(){
+        //Declare time
+        var date = new Date().toLocaleDateString() + " - " + new Date().toLocaleTimeString()
+        //Find users
+        let usuariosList = JSON.parse('@Html.Raw(Json.Serialize(Model.listInfor))');
+        for(var user of usuariosList ){
+            
+            if(user.correo == Correo.value){
+                if(user.clave == Clave.value){
+                   // alert("Login Exitoso");
+                   localStorage.setItem("userName",user.nombreCompleto)
+                   localStorage.setItem("dateTime", date)
+                   location.replace("/Catalogos/Index")
+                }
+                else{
+                    alert("Email o contraseña no son correctos")
+                }
+            }
+            else{
+                console.log("No hay registros")
+            }
+        }
+
+    }
+
+
+        //location.replace("/Catalogos/Index")
+    
+
+    function registrar(){
+        console.log("Registrar")
+        location.replace("/Acceso/Registrar")
+    }
+
+    
+  
+</script>
+
+<head>
+
+    <meta charset="utf-8">
+
+    <title> Login</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+    <link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Overpass&display=swap" rel="stylesheet">
+
+    <!-- Link hacia el archivo de estilos css -->
+    <link rel="stylesheet" href="./css/Login.css">
+
+    <style type="text/css">
+
+    </style>
+
+    <script type="text/javascript">
+
+    </script>
+
+</head>
+
+<body>
+
+    <div id="contenedor">
+        <div id="central">
+            <div id="login">
+                <div class="titulo">
+                    Bienvenido 
+                </div>
+                <form  id="loginform" method="post">
+                    <input type="text" name="Correo" id="Correo" value="" placeholder="Correo" required>
+                    <input type="password" name="Clave"  id ="Clave" value="" placeholder="Contraseña" required>
+
+                    @if (ViewData["Mensaje"] != null)
+                    {
+                        <div class="alert alert-danger" role="alert">
+                            @ViewData["Mensaje"]
+                        </div>
+                    }
+
+                    <button type="button" title="Ingresar" onclick="verificar()">Login</button>
+                    <button type="button" title="Registrar" onclick="registrar()">Registrar</button>
+                    
+                </form>
+                
+            </div>
+
+        </div>
+       </div>
+</body>

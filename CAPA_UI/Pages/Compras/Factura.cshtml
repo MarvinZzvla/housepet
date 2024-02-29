@@ -1,0 +1,112 @@
+﻿@page
+@model FacturaModel
+@{
+}
+
+<style>
+    .factura_box {
+        width: 920px;
+        height:auto;
+        background-color:white;
+        margin-top:50px;
+        margin-bottom: 25px;
+        border-radius: 10px;
+        padding: 25px;
+        align-content:center;
+    }
+    div.factura_box h3{
+        font-family: "Lucida Console", "Courier New", monospace;
+    }
+
+    div.factura_box hr{
+        border-style: solid;
+        border-color: black;
+        border-width: 5px 0px 0px 0px;
+    }
+
+    #doted{
+        border-style: dashed;
+    }
+
+    #logo_factura {
+        width:120px;
+        height:72px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+</style>
+<div class="factura_box">
+<h1 style="text-align:center;">HOUSE PETS</h1>
+ 
+    <div style="width:auto;height:auto; margin:0px auto;text-align:center;padding:20px;">
+        <h3 id="idVenta">Nº00001</h3>
+        <h3>Catarina - 42500 </h3>
+        <h3 id="fecha_factura_auth">2022/05/04</h3>
+          <hr/>
+    </div>
+    <h2 style="text-align:center;">Factura de la Compras</h2>
+    <hr />
+    <div style="width:auto;height:auto; margin:0px auto;text-align:left;padding:20px;">
+        <h3 id="fecha_factura">2022/05/04</h3>
+        <h3>Direccion: Parque central 1c. al Norte 1/2 al Este</h3>
+    </div>
+    <hr />
+    <div style="width:auto;height:auto; margin:0px auto;text-align:left; padding:20px;">
+        <h3 id="producto_factura">Productos:</h3>
+        <h3 id="iva_factura">Iva:</h3>
+        <h3 id="descuento_factura">Descuento:</h3>
+        <hr id="doted"/>
+        <h3 id="total_factura">Total:</h3>
+    </div>
+<center><img id="logo_factura" src="~/img/logo.png" width="150px" height="150px" /></center>
+<p style="text-align:center;">Gracias por tu compra👍</p>
+</div>
+<button class="btn btn-success" onclick="redirect()">Volver</button>
+<button class="btn btn-success" onclick="printFactura()">Imprimir</button>
+<script>
+
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const id = urlParams.get('id')
+    //console.log(id);
+    LoadValues(id)
+
+    async function LoadValues(item){
+         let articulosList = JSON.parse('@Html.Raw(Json.Serialize(Model.listInfor))') 
+         var productosList = []
+         /****Desarrollo Nuevo*/
+         for(let i = 0; i < articulosList.length; i++){
+             if(articulosList[i].idCabVenta == item){
+                 productosList.push(articulosList[i])
+             } 
+         }
+         console.log(productosList)
+
+         /******* */
+           console.log(articulosList)
+         let articulo = articulosList.find(x => x.idCabVenta === parseInt(item))
+        //document.getElementById("TxId").innerHTML = "I have changed!";
+        console.log(articulo);
+        document.getElementById("idVenta").innerHTML = "Nº 0000" + articulo.idCabVenta
+        document.getElementById("fecha_factura").innerHTML = "Fecha de la Compras: " + articulo.fechaVenta
+        document.getElementById("fecha_factura_auth").innerHTML = "Fecha Autorizada: " + articulo.fechaVenta
+        //document.getElementById("producto_factura").innerHTML = "Producto: " + articulo.nombreArticulo
+        for (let i = 0; i < productosList.length; i++) {
+        document.getElementById("producto_factura").innerHTML +="<li>"+productosList[i].nombreArticulo+"</li>" 
+        }
+        document.getElementById("iva_factura").innerHTML = "Iva: " + articulo.ivaVenta
+        document.getElementById("descuento_factura").innerHTML = "Descuento: " + articulo.descuentoVenta
+        document.getElementById("total_factura").innerHTML = "Total: " + articulo.totalVenta
+    }
+
+    function redirect(){
+        window.location.replace("./ComprasIndex")
+    }
+
+    function printFactura(){
+        window.print()
+    }
+
+</script>
+
+

@@ -1,0 +1,60 @@
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.deps.json
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.csproj.AssemblyReference.cache
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.AssemblyInfoInputs.cache
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.AssemblyInfo.cs
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\RForbes\Documents\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.deps.json
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.csproj.AssemblyReference.cache
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.AssemblyInfoInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.AssemblyInfo.cs
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.deps.json
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.csproj.AssemblyReference.cache
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.AssemblyInfoInputs.cache
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.AssemblyInfo.cs
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Zavala\Desktop\Nueva carpeta\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.deps.json
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.csproj.AssemblyReference.cache
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.AssemblyInfoInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.AssemblyInfo.cs
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Zavala\Desktop\Desarrollo Zavala\Desarrollo\PRACTICAS-FINAL-IMPORTACIONES-GARCIA-\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_DATOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.deps.json
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_DATOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_DATOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.csproj.AssemblyReference.cache
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.AssemblyInfoInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.AssemblyInfo.cs
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\PetHouse\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_DATOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.deps.json
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_DATOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_DATOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.csproj.AssemblyReference.cache
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.AssemblyInfoInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.AssemblyInfo.cs
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Zavala\Desktop\Desarrollo\HOUSEPET\PetHouse\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.pdb

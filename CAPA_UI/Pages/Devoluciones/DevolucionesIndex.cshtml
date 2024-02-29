@@ -1,0 +1,46 @@
+﻿@page
+@model CAPA_UI.Pages.MaestrosDetalles.Devoluciones.DevolucionesIndexModel
+@{
+}
+
+<div style="margin-top:10pt">
+    <a asp-page="/Devoluciones/Create"> <input type="button" class="btn-info" value="Crear una nueva devolucion" /></a>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID Devolucion</th>
+            <th>Nombre del articulo</th>
+            <th>Fecha de Devolucion</th>
+            <th>Codigo Referencia</th>
+            <th>Nota</th>
+            @*<th>Acciones</th>*@
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.listInfor)
+        {
+            <tr>
+                <td>
+                    @item.IdCabDevolucion
+                </td>
+                <td>
+                    @item.NameArticulo
+                </td>
+                <td>
+                    @item.FechaDevolucion
+                </td>
+                <td>
+                   @item.CodigoReferencia
+                </td>
+                <td>
+                   @item.NotaDevolucion
+                </td>
+                @*<td>
+                    <button type="button" class="btn btn-success" data-toggle="modal" data-target="#ModalDetalleCompra" >Ver detalles</button>
+                </td>*@
+            </tr>
+        }
+    </tbody>
+</table>

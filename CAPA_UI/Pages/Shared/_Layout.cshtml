@@ -1,0 +1,231 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] HousePets</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
+</head>
+<body style="background-color:#454d55">
+
+    <div class="sidebar ">
+        <div class="logo">
+           
+            <a asp-page="/Catalogos/Index" class="namelogo" style="text-align:center">
+                <img id="logo_img" src="~/img/logo.png" style="width:200px; height:200px;" />
+               
+            </a>
+
+            <p id="userName" style="color:white"></p>
+            <p id="dateTime" style="color:white"></p>
+
+        </div>
+
+        <br />
+        <br />
+
+        <ul class="nav-links">
+
+            <li>
+                <div class="iocn-link ">
+                    <a href="">
+                        <i class='bx bx-collection'></i>
+                        <span class="link-name">CATALOGOS</span>
+                    </a>
+                    <i class='bx bx-chevrons-down arrow'></i>
+                </div>
+                <ul class="sub-menu black">
+                    <li><a asp-page="/Catalogos/Proveedor"><i><box-icon type='solid' name='plane-land'></box-icon></i>Proveedores</a></li>
+                    @*<li><a asp-page="/Catalogos/Categoria"><i><box-icon type='solid' name='category'></box-icon></i>Categorias</a></li>
+                    *@
+                    <li><a asp-page="/Catalogos/Articulo"><i><box-icon name='list-ul'></box-icon></i>Articulos</a></li>
+                    @*<li><a asp-page="/Catalogos/Talla"><i><box-icon name='sort-a-z'></box-icon></i>Tipo de Medida</a></li>*@
+
+                </ul>
+            </li>
+
+           <li>
+               <div class="iocn-link">
+                   <a href="">
+                        <i class='bx bx-collection'></i>
+                        <span class="link-name">COMPRAS</span>
+                   </a>
+                    <i class='bx bx-chevrons-down arrow'></i>
+                </div>
+
+                    <ul class="sub-menu black">
+                       <li>
+                            <a asp-page="/Compras/Create"><i><box-icon type='solid' name='cart-add'></box-icon></i>Agregar Nueva Compra</a>
+                       </li>
+
+                       <li>
+                        <a asp-page="/Compras/ComprasIndex"><i><box-icon name='list-ul'></box-icon></i>Ver lista de Compras</a>
+                      </li>
+                   </ul>
+
+               
+           </li>
+
+            <li>
+               <div class="iocn-link">
+                   <a href="">
+                        <i class='bx bx-collection'></i>
+                        <span class="link-name">VENTAS</span>
+                   </a>
+                    <i class='bx bx-chevrons-down arrow'></i>
+                </div>
+
+                    <ul class="sub-menu black">
+                       <li>
+                            <a asp-page="/Ventas/Create"><i><box-icon type='solid' name='cart-add'></box-icon></i>Vender</a>
+                       </li>
+
+                       <li>
+                        <a asp-page="/Ventas/VentasIndex"><i><box-icon name='list-ul'></box-icon></i>Ver lista de Ventas</a>
+                      </li>
+                   </ul>
+            </li>
+
+
+            <li>
+                <div class="iocn-link">
+                    <a href="">
+                        <i class='bx bx-collection'></i>
+                        <span class="link-name">REPORTES</span>
+                    </a>
+                    <i class='bx bx-chevrons-down arrow'></i>
+                </div>
+
+                <ul class="sub-menu black">
+                    <li>
+                        <a asp-page="/Informes/ViewInformeCompra"><i><box-icon name='report' type='solid'></box-icon></i>Reportes de Compras</a>
+                    </li>
+
+                    <li>
+                        <a asp-page="/Informes/ViewInformeVenta"><i><box-icon name='report' type='solid'></box-icon></i>Reportes de Ventas</a>
+                    </li>
+                     <li>
+                        <a asp-page="/Informes/ViewInformeInventario"><i><box-icon name='report' type='solid'></box-icon></i>Reportes de existencias</a>
+                    </li>
+                </ul>
+            </li>
+
+            <li>
+               @* <div class="iocn-link">
+                    <a href="">
+                        <i class='bx bx-collection'></i>
+                        <span class="link-name">DEVOLUCIONES</span>
+                    </a>
+                    <i class='bx bx-chevrons-down arrow'></i>
+                </div>*@
+
+                <ul class="sub-menu black">
+                    <li>
+                        <a asp-page="/Devoluciones/DevolucionesIndex"><i><box-icon name='report' type='solid'></box-icon></i>Devoluciones Por Ventas</a>
+                    </li>
+
+                </ul>
+            </li>
+
+            <li>
+                <div class="iocn-link">
+                    <a href="">
+                        <i class='bx bx-collection'></i>
+                        <span class="link-name">INVENTARIO</span>
+                    </a>
+                    <i class='bx bx-chevrons-down arrow'></i>
+                </div>
+
+                <ul class="sub-menu black">
+                    <li>
+                        <a asp-page="/Inventario/InventarioIndex"><i><box-icon name='report' type='solid'></box-icon></i>Revisar</a>
+                    </li>
+
+                </ul>
+            </li>
+            <div style="margin:10px;padding:10px">
+                
+                @*<a href="./index"><img src="./img/logout.png" width="32px" height="32px" /></a>
+                <a href="./index"><p style="display:inline-block;font-size: 18px;color:white;">Cerrar Sesion</p></a>*@
+                <a href="#"></><img id="img_logout" src="~/img/logout.png" width="32px" height="32px" /></a>
+                <a href="#"><p id="tx_logout" style="display:inline-block;font-size:18px;color:white; margin-left:10px;margin-top:5px">Cerrar Sesion</p></a>
+            </div>
+        </ul>
+    </div>
+    
+
+
+
+    <script>
+        let arrow = document.querySelectorAll(".arrow");
+        for (var i = 0; i < arrow.length; i++) {
+            arrow[i].addEventListener("click", (e) => {
+                let arrowParent = e.target.parentElement.parentElement;
+                arrowParent.classList.toggle("showMenu");
+                console.log(arrowParent)
+            });
+        }
+
+        let sidebar = document.querySelector(".sidebar");
+        let sidebarBtn = document.querySelector(".bx-menu");
+
+        sidebarBtn.addEventListener("click", () => {
+            sidebar.classList.toggle("close");
+        });
+
+
+    </script>
+
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @RenderSection("Scripts", required: false)
+    @*await RenderSectionAsync("Scripts",required:false)*@
+</body>
+<script>
+    // Obtén una referencia a los elementos por su ID
+    const imgElement = document.getElementById('img_logout');
+    const textElement = document.getElementById('tx_logout');
+
+    // Variable para rastrear si se hizo clic en algún elemento
+    let clicked = false;
+
+    // Función para manejar el clic en los elementos
+    function handleClick() {
+        clicked = true;
+        // Muestra la confirmación
+        const confirmMessage = '¿Estás seguro de que deseas cerrar sesión?';
+        if (window.confirm(confirmMessage)) {
+            // Si el usuario confirma, redirige a ./index
+            const urlInicio = '@Url.Action("Login","AccesoController")'
+            console.log(urlInicio)
+            window.location.href = "../index";
+        } else {
+            // Si el usuario cancela, restablece el estado
+            clicked = false;
+        }
+    }
+
+    // Asocia la función de clic a ambos elementos
+    imgElement.addEventListener('click', handleClick);
+    textElement.addEventListener('click', handleClick);
+    
+    document.getElementById("userName").innerHTML = "<strong>Usuario:</strong> " + localStorage.getItem("userName")
+    document.getElementById("dateTime").innerHTML = "<strong>Fecha y hora:</strong> " + localStorage.getItem("dateTime")
+
+    
+</script>
+</html>

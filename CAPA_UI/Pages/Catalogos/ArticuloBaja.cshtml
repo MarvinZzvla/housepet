@@ -1,0 +1,115 @@
+﻿@page
+@model ArticuloBajaModel
+@{
+}
+<script type="text/javascript" src="@Url.Content("../js/TablaComponent.js")"></script>
+
+<script type="module">
+
+
+    window.onload = async () => {
+        let UrlP = "../api/Catalogos/SaveBajaArticulo";
+        let response = await fetch(UrlP, {
+            method: "GET",
+            headers: {
+                'Content-Type': "application/json; charset-utf-8",
+                'Accept': "*/*"
+            }
+        });
+        response = await response.json();
+        console.log(response)
+        CreateTable(response, TableData)
+
+    }
+
+    //
+    window.edit = async () => {
+        const ObjInst = {
+            Parametro: 'C',
+            Id_baja: TxtId.value,
+            Id_articulo: TxtArticulo.value,
+            FechaBaja: TxtxFecha.value,
+            DescripcionBaja: TxtDecipcionBaja.value,
+
+        }
+        console.log('estoy aquidd');
+        let Url = "../api/Catalogos/SaveBajaArticulo";
+        let response = await fetch(Url,
+            {
+                method: "POST",
+                headers: {
+                    'Content-Type': "application/json; charset=utf-8",
+                    'Accept': "*//*"
+                },
+                body: JSON.stringify(ObjInst)
+            });
+    }
+</script>
+}
+
+
+<div class="row">
+    <div class="col-md-4">
+        <form>
+            <div class="text-danger"></div>
+            <div class="form-group">
+                <label class="control-label"></label>
+                <input class="form-control" id="TxtId" type="text"/>
+                <span class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label"></label>
+                <input class="form-control" id="TxtArticulo" type="number"/>
+                <span class="text-danger"></span>
+            </div>
+
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" id="TxtxFecha" type="text"/>
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" id="TxtDecipcionBaja" type="text"/>
+                </label>
+            </div>
+            <div class="form-group">
+                <button type="button" class="btn btn-primary" id="Editar" formmethod="post" onclick="edit()">Guardar</button>
+                @* <input type="button" value="Guardar" class="btn btn-primary" id="Editar" formmethod="post"/>*@
+            </div>
+        </form>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Articulo</th>
+        <th>Fecha</th>
+        <th>
+            <a>Descripcion</a>
+        </th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model.listInfor)
+    {
+        <tr>
+            <td>
+                @item.Id_baja
+            </td>
+            <td>
+                @item.Id_articulo
+            </td>
+            <td>
+                @item.FechaBaja
+            </td>
+            <td>
+                @item.DescripcionBaja
+            </td>
+        </tr>
+    }
+    </tbody>
+
+</table>

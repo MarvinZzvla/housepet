@@ -1,0 +1,138 @@
+﻿@page
+@model BodegaModel
+@{
+}
+
+@section Scripts {
+    <script type="text/javascript" src="@Url.Content("../js/TablaComponent.js")"></script>
+
+    <script type="module">
+
+
+        window.onload = async () => {
+            let UrlP = "../api/Catalogos/GetBodega";
+            let response = await fetch(UrlP, {
+                method: "GET",
+                headers: {
+                    'Content-Type': "application/json; charset-utf-8",
+                    'Accept': "*/*"
+                }
+            });
+            response = await response.json();
+            console.log(response)
+            CreateTable(response, TableData)
+
+        }
+
+        //
+        window.edit = async () => {
+            const ObjInst = {
+                Parametro: 'C',
+                IdBodega: 1,
+                DescipcionBodega: TxtDescripcion.value,
+                EstadoBodega: TxtEstado.value
+            }
+            console.log('estoy aquidd');
+            let Url = "../api/Catalogos/SaveBodega";
+            let response = await fetch(Url,
+                {
+                    method: "POST",
+                    headers: {
+                        'Content-Type': "application/json; charset=utf-8",
+                        'Accept': "*//*"
+                    },
+                    body: JSON.stringify(ObjInst)
+                });
+        }
+
+        const reload = document.getElementById('Editar');
+
+        reload.addEventListener('click', _ => { // el _ es para indicar la ausencia de parametros
+            location.reload();
+        });;
+    </script>
+}
+
+@*Se crea el modal de Bodega*@
+<div class="row" id="ModalCategoria">
+    <div class="modal-dialog modal-lg ">
+        <div class=" modal-content">
+            <form method="post" enctype="multipart/form-data">
+                <div class="modal-header">
+                    <h2 class="modal-title text-primary text-center">Bodegas de Almacenamiento</h2>
+                </div>
+                <div class="modal-body">
+                    <div>
+                        <div class="row p-3 border-0">
+                            <div class="text-danger"></div>
+                        </div>
+
+                        <input type="hidden" class="form-control" id="TxtId"/>
+
+                        <div class="form-row" style="padding-top:14px;">
+                            <div class="form-group col-md-6">
+                                <label>Descripcion</label>
+                                <input type="text" id="TxtDescripcion" class="form-control" placeholder="Nombres"/>
+                                <span class="text-danger"></span>
+
+                            </div>
+
+
+                            <div>
+                                <div class="form-group" style="margin-left:10px">
+                                    <label>Estado</label>
+                                    <select id="TxtEstado" class="custom-select">
+                                        <option value="1">Activo</option>
+                                        <option value="0">Inactivo</option>
+                                    </select>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger">Cancelar</button>
+                    <button type="button" class="btn btn-success" id="Editar" formmethod="post" onclick="edit()">Grabar Cambios</button>
+                </div>
+
+            </form>
+        </div>
+
+    </div>
+</div>
+
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Descripcion</th>
+        <th>Estado</th>
+        <th>
+            <a>Accion</a>
+        </th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model.listInfor)
+    {
+        <tr>
+            <td>
+                @item.IdBodega
+            </td>
+            <td>
+                @item.DescipcionBodega
+            </td>
+            <td>
+                @item.EstadoBodega
+            </td>
+            <td>
+                <button type="button" class="btn btn-success">Editar</button>
+                <button type="button" class="btn btn-danger">Eliminar</button>
+            </td>
+        </tr>
+    }
+    </tbody>
+
+</table>
